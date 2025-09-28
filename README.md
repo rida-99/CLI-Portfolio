@@ -78,9 +78,6 @@ In `src/commands/Stats.jsx`, replace the GitHub username with your own to displa
 - Custom command prompt
 - Command history navigation
 
-##  License
-
-This project is licensed under the terms of the license included in the repository.
 
 ##  Contributing
 
