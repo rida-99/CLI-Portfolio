@@ -1,0 +1,19 @@
+.App {
+  background: #000; /* terminal black */
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+.react-console-emulator {
+  background: #000 !important;
+  color: #33ff33 !important; /* green text */
+  font-family: "Fira Code", monospace;
+  font-size: 14px;
+  border: none;
+  box-shadow: none;
+}
+
+.terminal {
+  font-family: monospace;
+  white-space: pre;
+}
